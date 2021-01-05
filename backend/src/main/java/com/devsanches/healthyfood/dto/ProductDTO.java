@@ -4,7 +4,7 @@ import java.io.Serializable;
 
 import com.devsanches.healthyfood.entities.Product;
 
-public class ProductDTO  implements Serializable {
+public class ProductDTO implements Serializable {
 	
 	private static final long serialVersionUID = 1L;
 	
